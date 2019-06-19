@@ -4,4 +4,7 @@
 ### How to play:
 * Open the terminal
 * Change directory to where tic-tac-toe.py is located
-* run python tic-tac-toe.py
+* Run the command line in terminal
+```
+python tic-tac-toe.py
+```
